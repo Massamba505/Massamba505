@@ -1,4 +1,4 @@
-👋 Hey there! I'm Massamba, a dedicated final year computer science student with a passion for technology and its endless possibilities.
+👋 Hey there! I'm Massamba, a dedicated final year computer science student at the University of the Witwatersrand with a passion for technology and its endless possibilities.
 
 🎓 Currently pursuing my Bachelor's degree in Computer Science, I'm deeply engaged in exploring the fundamental principles of algorithms, data structures, and software engineering.
 
